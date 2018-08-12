@@ -2,6 +2,10 @@ p {
     color:green;
   }
 
+  article {
+    color:black;
+  }
+
 .btn{
     transform: translate(0,20px);
 }
