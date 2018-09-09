@@ -8,4 +8,5 @@ p {
 
 .btn{
     transform: translate(0,20px);
+    color:black;
 }
